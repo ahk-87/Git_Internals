@@ -1,0 +1,3 @@
+# Project exclude paths
+/.gradle/
+/Git Internals/task/build/
